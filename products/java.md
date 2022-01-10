@@ -7,6 +7,7 @@ layout: post
 title: Java/OpenJDK
 category: lang
 command: java --version
+command: java -version
 activeSupportColumn: true
 link: https://www.oracle.com/technetwork/java/java-se-support-roadmap.html
 releaseDateColumn: true
